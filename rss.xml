@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Max]]></title>
         <description><![CDATA[Max]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/max/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 23:58:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 00:06:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/max/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/431fe726-1652-4396-a06d-33258dc73b30.jpg">]]></description>
+            <link>https://thegrid.ai/max/8443b27f-d39e-4797-bdd5-6886385f6cb6/index.html</link>
+            <guid isPermaLink="false">8443b27f-d39e-4797-bdd5-6886385f6cb6</guid>
+            <pubDate>Tue, 12 Apr 2016 00:05:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/641ebad3e113bee8f098eaa736bed419591d0d88.gif"></article>]]></description>
+            <link>https://thegrid.ai/max/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">1f061f76-b816-4b48-a02c-22a4160442e9</guid>
             <pubDate>Mon, 11 Apr 2016 23:58:25 GMT</pubDate>
         </item>
